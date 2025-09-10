@@ -15,8 +15,6 @@ The dashboard focuses on:
 ---
 
 ## 🖼️ Dashboard Preview
-<img width="1430" height="801" alt="sports_dashboard" src="https://github.com/user-attachments/assets/84917f3e-5d63-4d51-958f-d9b76aa492b1" />
- 
 
 ![Dashboard Preview](images/sports_dashboard.png)
 
